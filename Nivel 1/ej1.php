@@ -1,0 +1,2 @@
+# Consigna: Define una variable de cada tipo de datos: entero, doble, string y booleano. Luego, imprime cada una en la pantalla.
+# Hint: Puedes utilizar echo para imprimir las variables y concatenar texto para que se vea más descriptivo.

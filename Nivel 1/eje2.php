@@ -1,0 +1,2 @@
+# Consigna: Tienes una frase almacenada en la variable $mensaje. Crea tres funciones: una que convierta la frase a mayúsculas, otra que calcule su longitud y otra que la invierta. Finalmente, imprime los resultados de cada función y la frase original concatenada con otra frase.
+# Hint: Usa funciones nativas de PHP como strtoupper(), strlen() y strrev().

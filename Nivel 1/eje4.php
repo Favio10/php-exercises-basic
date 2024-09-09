@@ -1,0 +1,2 @@
+# Consigna: Declara dos variables enteras y dos variables decimales. Realiza e imprime las siguientes operaciones: suma, resta, producto y módulo entre las variables enteras y las decimales. Luego, calcula e imprime el doble de cada variable. Finalmente, calcula la suma y el producto de todas las variables juntas.
+# Hint: Utiliza las operaciones matemáticas básicas en PHP (+, -, *, %).

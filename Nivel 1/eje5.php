@@ -1,0 +1,2 @@
+# Consigna: Crea dos arrays, uno con números impares y otro con números pares. Agrega un nuevo número al array de pares. Luego, mezcla ambos arrays en uno solo y muestra la longitud del array resultante. Finalmente, imprime el contenido del array mezclado valor por valor.
+# Hint: Puedes usar array_push() para agregar un valor a un array, y array_merge() para combinar los dos arrays.
